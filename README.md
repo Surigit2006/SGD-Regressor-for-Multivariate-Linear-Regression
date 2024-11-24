@@ -49,15 +49,7 @@ print("Predictions:\n", y_pred)
 ```
 
 ## Output:
-Mean Squared Error: 2.5562871469677457
-Predictions:
- [[ 1.09146496 35.72095788]
- [ 1.51924994 35.77408768]
- [ 2.36784097 35.66129834]
- ...
- [ 4.26247406 35.11866129]
- [ 1.72800885 35.82786077]
- [ 1.7700574  35.35461385]]
+![Screenshot 2024-11-24 132146](https://github.com/user-attachments/assets/fb0f1049-c60c-4d7d-9d77-d60d01e6fd5d)
 
 
 ## Result:
